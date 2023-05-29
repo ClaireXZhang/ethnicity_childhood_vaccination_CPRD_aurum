@@ -1,2 +1,2 @@
-# ethnicity_childhood_vaccination
+# CPRD_Aurum_ethnicity_childhood_vaccination
 Ethnicity and routine childhood vaccinations in England (CPRD Aurum)
