@@ -1,7 +1,7 @@
 # CPRD_Aurum_ethnicity_childhood_vaccination
 Ethnicity and routine childhood vaccinations in England (CPRD Aurum)
 
-This repository contains the code lists and code used to derive ethnicity and routine childhood vaccinations in England using the Clinical Practice Research Datalink (CPRD) Aurum database. 
+This repository contains the code lists and R code used to derive ethnicity and routine childhood vaccinations in England using the Clinical Practice Research Datalink (CPRD) Aurum database. 
 
 Ethnicity files include:
 - Ethnicity 2001 Census England & Wales (16 categories)
