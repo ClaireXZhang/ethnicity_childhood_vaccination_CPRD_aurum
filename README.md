@@ -6,7 +6,7 @@ This repository contains the code lists and R code used to derive ethnicity and 
 Ethnicity files include:
 - Code list categorising ethnicity using the 2001 (16 categories), 2011 (18 categories) and 2021 Census England & Wales (19 categories) classification systems
 - R code for assigning each individual a single most plausible ethnic category using CPRD Aurum linked to HES Admitted Patient Care data 
-- Ethnic categories by order of frequency in the general population of women aged 15-49 years at the time of the 2011 Census England & Wales (used in the R script as part of the algorithm)
+- Ethnic categories by order of frequency in England's general population of women aged 15-49 years at the time of the 2011 Census (used in the R script as part of the algorithm)
 
 Routine childhood vaccination files include:
 - Medical codes and product codes for the following vaccines: MMR, 6/5/4-in-1, MenC & HibMenC, MenB, rotavirus, pneumococcal
