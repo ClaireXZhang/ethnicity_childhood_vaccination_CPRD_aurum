@@ -3,7 +3,7 @@
 #--------------------------------------------------------------------------
 # Description -------------------------------------------------------------
 
-# Derive ethnicity using CPRD Aurum & HES APC 
+# Assign single most plausible ethnic category using CPRD Aurum & HES APC 
 # ONS England & Wales 2011 Census - 18 categories
 # Example code for deriving maternal ethnicity
 # Suggested edits in CAPS if interested in a different age/sex
