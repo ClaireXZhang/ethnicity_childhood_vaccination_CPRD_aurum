@@ -13,4 +13,4 @@ Routine childhood vaccination files include:
 - R code for identifying vaccinations in the CPRD Aurum Observations and Drug Issue data tables, and deriving variables indicating whether the primary course and full course (primary + booster dose) had been completed by the expected birthday (first, second and fifth birthdays, as per the UKHSA/NHS Digital annual statistical reports)
 - Cumulative number of doses for each vaccine that is expected by each birthday according to England's national schedule (correct for the financial years between 2006-07 and 2020-2021)
 
-The algorithms corresponding to these code lists and R code have been published in the supplemental appendix of XXX. Validation of these algorithms (completeness and representativeness) are also detailed within this paper. 
+The algorithms corresponding to these code lists and R code have been submitted to The Lancet Public Health, and will appear in the supplemental appendix of the published paper. Validation of these algorithms (completeness and representativeness) are also detailed within this paper. 
