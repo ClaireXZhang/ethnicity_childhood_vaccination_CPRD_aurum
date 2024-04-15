@@ -15,4 +15,4 @@ Routine childhood vaccination files include:
 - UKHSA/NHSE annual statistical reports - national % coverage for each birthday cohort 2006-2021 (used to validate the algorithm for deriving vaccinations)
 - Validation, descriptive and statistical analysis code (example: MMR)
 
-The algorithms corresponding to these code lists and R code are included in the supplemental appendix of the corresponding (publication in eClinicalMedicine)[https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(23)00458-3/fulltext]. Validation of these algorithms (completeness and representativeness) are also detailed within this paper. 
+The algorithms corresponding to these code lists and R code are included in the supplemental appendix of the corresponding [publication in eClinicalMedicine](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(23)00458-3/fulltext). Validation of these algorithms (completeness and representativeness) are also detailed within this paper. 
